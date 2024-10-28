@@ -1,3 +1,5 @@
 Nama: Edi Nugroho
-NIM: 221011402708
+/n
+NIM: 22101140270
+/n
 Kelas: 05TPLE018
